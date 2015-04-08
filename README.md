@@ -1,5 +1,4 @@
 # ParallelComputing
-童心是个大SB!
 Program a map reduce that executes on a distributed memory machine and uses OpenMP on each core to compute the map reduce. 
 
 The project will be done in three steps:
